@@ -1,6 +1,6 @@
 # MOVIE-RECOMMENDATION-SYSTEM-USING-ML
 
-### This is an Machine Learning project based on reinforcement learning. The motive is to recommend movies to users based on the movies they hve liked or previously watched.
+### This is an Machine Learning project based on reinforcement learning. The motive is to recommend movies to users based on the movies they have liked or previously watched.
 There are two ways to see handle this project.
 --> Content Based Recommendation System - Recommending movies based on the content(genre,storyline,plt,etc.)
 --> Popularity Based Recommendation System - Recommending movies based on the popularity count among other    &emsp &emsp &emsp &emsp viewers
